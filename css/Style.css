@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	color: #424e66;
+	background-color: #E6E6E5;
+}
+ul {
+	font-weight: normal;
+}
+ol {
+	font-weight: bold;
+}
+h1 {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	align-content: center;
+}
+.italics
+{
+	font-style: italic;
+	
+}
+.underline
+{
+	text-decoration: underline;
+}
+a {
+	color: #424e66;
+}
+a:hover {
+	color: #c8a292;
+	font-weight: bold;
+	
+}
+a:visted {
+	color: #96a0a9;
+}
